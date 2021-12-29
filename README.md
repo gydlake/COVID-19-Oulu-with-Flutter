@@ -1,12 +1,14 @@
 # flutter_covid_oulu
 
 Confirmed Covid-19 in Pohjois-Pohjanmaa (Oulu)
+
 Guoyong Duan, Dec. 29, 2021, Oulu, Finland
 
 # Runtime images
 
-<img src="./assets/inAndroidPhone.png" width="320" />
-<img src="./assets/inAndroidEmulator.jpg" width="320" />
+In Android phone: <img src="./assets/inAndroidPhone.png" width="320" />
+
+In Android emulator: <img src="./assets/inAndroidEmulator.jpg" width="320" />
 
 # Data Source
 
@@ -15,7 +17,8 @@ The app is based on the data published in [Helsingin Sanomat Datadesk](https://g
 # Test and Verification
 
 The app is programmed with Flutter which can work on Android, iOS, Windows and Linux.
-With Android Studio, the app works in android emulator, web, android phone (after installation).
+
+With Android Studio, the app was tested in android emulator, web browsers, android phone (after installation), and it worked properly.
 
 # Note
 
