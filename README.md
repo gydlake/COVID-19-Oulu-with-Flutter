@@ -6,9 +6,11 @@ Guoyong Duan, Dec. 29, 2021, Oulu, Finland
 
 # Runtime images
 
-In Android phone: <img src="./assets/inAndroidPhone.png" width="320" />
+In Android phone:
+<img src="./assets/inAndroidPhone.png" width="320" />
 
-In Android emulator: <img src="./assets/inAndroidEmulator.jpg" width="320" />
+In Android emulator:
+<img src="./assets/inAndroidEmulator.jpg" width="320" />
 
 # Data Source
 
